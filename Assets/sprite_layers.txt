@@ -1,0 +1,29 @@
+Sprite Rendering Layers
+
+
+Background
+  0 - Far background
+  1 - Mid background
+  2 - Near background
+
+Default
+-10 - Light glow
+ -9 - Dark aura
+  0 - (Default), Tiles, platforms, environment (ordered by hierarchy?)
+  1 - Secret area cover
+  0 - Orbs, Orb particle effects, player trail effects
+ 11 - Dimmer layer
+
+Enemy
+
+  0 - Enemy sprite
+
+Player
+
+  0 - Player sprite
+
+
+Foreground
+  0 - Far foreground
+  1 - Mid foreground
+  2 - Near foreground

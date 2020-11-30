@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup
+  - MovableObject
+  - DeadlyTouch
+  - Hidden
+  - Key
+  - Dialogue
+  - DamagingTouch
+  - PlayerAttack
+  - Boss
+  - StickyTouch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - Critter
+  - Projectile
+  - EnemyOuter
+  - BatBlocker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2397683023
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3964660171
+    locked: 0
+  - name: Player
+    uniqueID: 3576430417
+    locked: 0
+  - name: Foreground
+    uniqueID: 3314865685
+    locked: 0
